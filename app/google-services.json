@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "110911836846",
+    "firebase_url": "https://delfol2-68667.firebaseio.com",
+    "project_id": "delfol2-68667",
+    "storage_bucket": "delfol2-68667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110911836846:android:eb2c5cb16a53641e",
+        "android_client_info": {
+          "package_name": "com.otniel.delfol.delfol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110911836846-7unj20fn1doi8qgjbi6a15ucq1lhledk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUDvu3azLAziI1Mac4AUK9KViQXmiuE2I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

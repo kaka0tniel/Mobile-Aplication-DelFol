@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab_home"
+        android:icon="@drawable/icon_stadium"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/tab_1"
+        android:icon="@drawable/icon_news"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/tab_2"
+        android:icon="@drawable/icon_trophy"
+        android:title="@string/title_notifications" />
+
+    <item
+        android:id="@+id/tab_3"
+        android:icon="@drawable/icon_favorite"
+        android:title="Favorite" />
+
+</menu>
